@@ -19,7 +19,7 @@ image_frame = 1;
 while image_frame < 1800
     disp(['Processing image ', num2str(image_frame), '-', num2str(image_frame + 8), '...']);
 
-    origin_test(filename, image_frame);
+    HIFI_from_image_stack(filename, image_frame);
 
     image_frame = image_frame + 9;
 end

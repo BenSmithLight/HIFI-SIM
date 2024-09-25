@@ -26,7 +26,7 @@ while exist(filename, 'file')
         end
     end
     if i == 8
-        more_data_test(root_path, image_num);
+        HIFI_from_Multiple_single_images(root_path, image_num);
     end
     image_num = image_num + 9;
 end
