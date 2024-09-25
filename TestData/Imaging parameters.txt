@@ -1,0 +1,26 @@
+
+(1)2D-SIM(3 angles_3 phases)_9 frames_Group1.tif
+	angles: 3
+	phases: 3
+
+	Em: 525 nm;
+	Pixsize: 78.6 nm;
+	NA: 1.42;
+
+
+(2)2D-SIM(3 angles_3 phases)_9 frames_Group2.tif
+	angles: 3
+	phases: 3
+
+	Em: 525 nm;
+	Pixsize: 65 nm;
+	NA: 1.49;
+
+(3)3D-SIM(3 angles_5 phases)_15 frames_Group1.tif
+	angles: 3
+	phases: 5
+
+	Em: 525 nm;
+	Pixsize: 79.5nm;
+	NA: 1.40;
+    The test data (OMX_LSEC_Actin_525nm.tif) was downloaded from fairSIM's official website.
